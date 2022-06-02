@@ -7,6 +7,8 @@
  * Kruskal算法又称为K氏算法，是将各边按照权值从小到大排列，接着从权值最低的边开始建立最小生成树，
  * 如果加入的边会造成回路则舍弃不用，知道加入n-1个边为止。
  *
+ * <p>Reference<a href="https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/">Kruskal’s Minimum Spanning Tree Algorithm | Greedy Algo-2</a>
+ *
  * <p>更多内容参看<a href="https://huning.tech"><b>胡宁Tech</b></a>
  * @author huning
  */
